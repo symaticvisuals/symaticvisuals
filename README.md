@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">A passionate Full Stack Developer and a UI/UX Designer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=symaticvisuals&label=Profile%20views&color=0e75b6&style=flat" alt="symaticvisuals" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symaticvisuals" alt="symaticvisuals" /></a> </p>
 
 - 🌱 I’m currently learning **React Framework**
 
 - 📫 How to reach me **symaticvisuals02@gmail.com**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=symaticvisuals&label=Profile%20views&color=0e75b6&style=flat" alt="symaticvisuals" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symaticvisuals" alt="symaticvisuals" /></a> </p>
 
 
 
