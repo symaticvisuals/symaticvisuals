@@ -12,8 +12,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=symaticvisuals&show_icons=true&locale=en&layout=compact" alt="symaticvisuals" /></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symaticvisuals" alt="symaticvisuals" /></a> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=symaticvisuals&show_icons=true&locale=en" alt="symaticvisuals" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=symaticvisuals&" alt="symaticvisuals" /></p>
