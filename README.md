@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">A passionate Full Stack Developer and a UI/UX Designer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=symaticvisuals&label=Profile%20views&color=0e75b6&style=flat" alt="symaticvisuals" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symaticvisuals" alt="symaticvisuals" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/deepans09161088" target="blank"><img src="https://img.shields.io/twitter/follow/deepans09161088?logo=twitter&style=for-the-badge" alt="deepans09161088" /></a> </p>
 
 - 🌱 I’m currently learning **React Framework**
 
@@ -28,3 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=symaticvisuals&" alt="symaticvisuals" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=symaticvisuals&label=Profile%20views&color=0e75b6&style=flat" alt="symaticvisuals" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symaticvisuals" alt="symaticvisuals" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/deepans09161088" target="blank"><img src="https://img.shields.io/twitter/follow/deepans09161088?logo=twitter&style=for-the-badge" alt="deepans09161088" /></a> </p>
