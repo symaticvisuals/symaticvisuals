@@ -30,6 +30,6 @@
 <div align="center">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=symaticvisuals&theme=react" alt="symaticvisuals" /></p>
-<br>
+
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=symaticvisuals&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Deepanshu Goel" align="center" /></p>
 </div>
