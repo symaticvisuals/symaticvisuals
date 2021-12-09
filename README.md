@@ -1,4 +1,4 @@
-![banner-deepanshu](D:\Portfolio\symaticvisuals\assets\banner-deepanshu.gif)
+<a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/symaticvisuals/symaticvisuals/blob/main/assets/banner-deepanshu.gif?raw=true" /></a>
 
 <h1 align="left"><b>Hi 👋, I'm Deepanshu</b></h1>
 <p align="left">I am an active Open-Source Contributor, a part of <b>Data on Kubernetes</b> & <b>AngelHack</b> Communities. I believe in teaching people about what I learn and public speak about React, UI/UX Designing and more to be coming soon!</p>
