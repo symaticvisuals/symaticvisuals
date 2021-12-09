@@ -1,4 +1,4 @@
-![](D:\Download\banner-deepanshu.png)
+![banner-deepanshu](D:\Portfolio\symaticvisuals\assets\banner-deepanshu.gif)
 
 <h1 align="left"><b>Hi 👋, I'm Deepanshu</b></h1>
 <p align="left">I am an active Open-Source Contributor, a part of <b>Data on Kubernetes</b> & <b>AngelHack</b> Communities. I believe in teaching people about what I learn and public speak about React, UI/UX Designing and more to be coming soon!</p>
@@ -11,8 +11,6 @@
     <a href="https://github.com/symaticvisuals">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/symaticvisuals?style=for-the-badge"></a>
 </p>
-
-
 
 <br>
 
@@ -43,6 +41,3 @@
 </div>
 
 <br>
-
-
-
