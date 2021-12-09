@@ -41,3 +41,8 @@
 </div>
 
 <br>
+
+## <a href="https://github.com/symaticvisuals">Recent Activities on GitHub</a>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
