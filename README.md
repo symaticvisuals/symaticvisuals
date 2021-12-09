@@ -1,14 +1,22 @@
-<h1 align="center"><b>Hi 👋, I'm Deepanshu</b></h1>
-<h2 align="center">A passionate Full Stack Developer and a UI/UX Designer.</h2>
+![](D:\Download\banner-deepanshu.png)
 
-<h3 align="center">🌱 I’m currently learning <b>React Framework</b></h3>
+<h1 align="left"><b>Hi 👋, I'm Deepanshu</b></h1>
+<p align="left">I am an active Open-Source Contributor, a part of <b>Data on Kubernetes</b> & <b>AngelHack</b> Communities. I believe in teaching people about what I learn and public speak about React, UI/UX Designing and more to be coming soon!</p>
 
-<h3 align="center">📫 <b><a href="https://u6z4fs1b3g3.typeform.com/to/SSXqwLJC">Connect</a> </b>with me.</h3>
-<h3 align="center"><a href="http://deepanshuweb.in/"><b>Check out my Personal Portfolio</b></a></h3>
-<h3>
+<p align="left">📫 <b><a href="https://u6z4fs1b3g3.typeform.com/to/SSXqwLJC">Feel free to ask anything.</a> </b> You can check out my <a href="http://deepanshuweb.in/"><b>Personal Portfolio</b></a>.</p>
+<p align="left">
+  <a href="https://twitter.com/thedeepanshuweb">
+    <img src="https://img.shields.io/twitter/follow/thedeepanshuweb?label=Twitter&logo=twitter&style=for-the-badge&color=white" />
+  </a>
+    <a href="https://github.com/symaticvisuals">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/symaticvisuals?style=for-the-badge"></a>
+</p>
 
-<h2 align="center">Languages and Tools:</h2>
+
+
 <br>
+
+<h2 align="center">Languages and Tools that I'm Familiar with:</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -26,10 +34,15 @@
 <img src="https://img.shields.io/badge/PostgreSQL-%23343434.svg?style=for-the-badge&logo=postgres&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
 </div>
-<br><br>
+
+<br>
+
 <div align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=symaticvisuals&theme=react" alt="symaticvisuals" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=symaticvisuals&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Deepanshu Goel" align="center" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=symaticvisuals&theme=react" alt="symaticvisuals" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=symaticvisuals&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Deepanshu Goel" align="center" width="48%"/>
 </div>
+
+<br>
+
+
+
