@@ -1,10 +1,10 @@
 <a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/symaticvisuals/symaticvisuals/blob/main/assets/banner-deepanshu.gif?raw=true" /></a>
 
-<h1 align="left"><b>Hi 👋, I'm Deepanshu</b></h1>
-<p align="left">I am an active Open-Source Contributor, a part of <b>Data on Kubernetes</b> & <b>AngelHack</b> Communities. I believe in teaching people about what I learn and public speak about React, UI/UX Designing and more to be coming soon!</p>
+<h1 align="center"><b>Hi 👋, I'm Deepanshu</b></h1>
+<p align="center">I am an active Open-Source Contributor, a part of <b>Data on Kubernetes</b> & <b>AngelHack</b> Communities. I believe in teaching people about what I learn and public speak about React, UI/UX Designing and more to be coming soon!</p>
 
-<p align="left">📫 <b><a href="https://u6z4fs1b3g3.typeform.com/to/SSXqwLJC">Feel free to ask anything.</a> </b> You can check out my <a href="http://deepanshuweb.in/"><b>Personal Portfolio</b></a>.</p>
-<p align="left">
+<p align="center">📫 <b><a href="https://u6z4fs1b3g3.typeform.com/to/SSXqwLJC">Feel free to ask anything.</a> </b> You can check out my <a href="http://deepanshuweb.in/"><b>Personal Portfolio</b></a>.</p>
+<p align="center">
   <a href="https://twitter.com/thedeepanshuweb">
     <img src="https://img.shields.io/twitter/follow/thedeepanshuweb?label=Twitter&logo=twitter&style=for-the-badge&color=white" />
   </a>
