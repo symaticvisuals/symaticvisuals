@@ -1,4 +1,4 @@
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/symaticvisuals/symaticvisuals/blob/main/assets/banner-deepanshu.gif?raw=true" /></a>
+<a href="https://www.deepanshuweb.in" target="_blank"><img src="https://github.com/symaticvisuals/symaticvisuals/blob/main/assets/banner-deepanshu.gif?raw=true" /></a>
 
 <h1 align="center"><b>Hi 👋, I'm Deepanshu</b></h1>
 <p align="center">I am an active Open-Source Contributor, a part of <b>Data on Kubernetes</b> & <b>AngelHack</b> Communities. I believe in teaching people about what I learn and public speak about React, UI/UX Designing and more to be coming soon!</p>
@@ -45,9 +45,18 @@
 ## <a href="https://github.com/symaticvisuals">Recent Activities on GitHub</a>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. ❗️ Opened issue [#2940](https://github.com/EddieHubCommunity/support/issues/2940) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. 🎉 Merged PR [#11](https://github.com/symaticvisuals/engage-web-client/pull/11) in [symaticvisuals/engage-web-client](https://github.com/symaticvisuals/engage-web-client)
-5. 🎉 Merged PR [#9](https://github.com/symaticvisuals/engage-web-client/pull/9) in [symaticvisuals/engage-web-client](https://github.com/symaticvisuals/engage-web-client)
+
+1. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
+   [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. ❗️ Opened issue
+   [#2940](https://github.com/EddieHubCommunity/support/issues/2940) in
+   [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
+   [appwrite/appwrite](https://github.com/appwrite/appwrite)
+4. 🎉 Merged PR
+   [#11](https://github.com/symaticvisuals/engage-web-client/pull/11) in
+   [symaticvisuals/engage-web-client](https://github.com/symaticvisuals/engage-web-client)
+5. 🎉 Merged PR [#9](https://github.com/symaticvisuals/engage-web-client/pull/9)
+in
+[symaticvisuals/engage-web-client](https://github.com/symaticvisuals/engage-web-client)
 <!--END_SECTION:activity-->
