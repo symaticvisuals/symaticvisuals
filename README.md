@@ -46,11 +46,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. ❗️ Opened issue [#2940](https://github.com/EddieHubCommunity/support/issues/2940) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#6](https://github.com/symaticvisuals/linkedin-redesigned-server/pull/6) in [symaticvisuals/linkedin-redesigned-server](https://github.com/symaticvisuals/linkedin-redesigned-server)
+2. 💪 Opened PR [#6](https://github.com/symaticvisuals/linkedin-redesigned-server/pull/6) in [symaticvisuals/linkedin-redesigned-server](https://github.com/symaticvisuals/linkedin-redesigned-server)
 3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. 🎉 Merged PR [#11](https://github.com/symaticvisuals/engage-web-client/pull/11) in [symaticvisuals/engage-web-client](https://github.com/symaticvisuals/engage-web-client)
-5. 🎉 Merged PR [#9](https://github.com/symaticvisuals/engage-web-client/pull/9) in [symaticvisuals/engage-web-client](https://github.com/symaticvisuals/engage-web-client)
+4. ❗️ Opened issue [#2940](https://github.com/EddieHubCommunity/support/issues/2940) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
    [appwrite/appwrite](https://github.com/appwrite/appwrite)
 4. 🎉 Merged PR
