@@ -46,10 +46,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/symaticvisuals/linkedin-redesigned-server/pull/6) in [symaticvisuals/linkedin-redesigned-server](https://github.com/symaticvisuals/linkedin-redesigned-server)
-2. 💪 Opened PR [#6](https://github.com/symaticvisuals/linkedin-redesigned-server/pull/6) in [symaticvisuals/linkedin-redesigned-server](https://github.com/symaticvisuals/linkedin-redesigned-server)
-3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-4. ❗️ Opened issue [#2940](https://github.com/EddieHubCommunity/support/issues/2940) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#17](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/17) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+2. 💪 Opened PR [#17](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/17) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+3. 🎉 Merged PR [#6](https://github.com/symaticvisuals/linkedin-redesigned-server/pull/6) in [symaticvisuals/linkedin-redesigned-server](https://github.com/symaticvisuals/linkedin-redesigned-server)
+4. 💪 Opened PR [#6](https://github.com/symaticvisuals/linkedin-redesigned-server/pull/6) in [symaticvisuals/linkedin-redesigned-server](https://github.com/symaticvisuals/linkedin-redesigned-server)
 5. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
    [appwrite/appwrite](https://github.com/appwrite/appwrite)
