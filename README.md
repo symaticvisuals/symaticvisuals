@@ -46,11 +46,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/19) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-2. 🎉 Merged PR [#20](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/20) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-3. 💪 Opened PR [#20](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/20) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-4. 🎉 Merged PR [#18](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/18) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-5. 💪 Opened PR [#18](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/18) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+1. 🎉 Merged PR [#22](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/22) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+2. 🎉 Merged PR [#21](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/21) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+3. 💪 Opened PR [#21](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/21) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+4. 🎉 Merged PR [#19](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/19) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+5. 🎉 Merged PR [#20](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/20) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
 3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
    [appwrite/appwrite](https://github.com/appwrite/appwrite)
 4. 🎉 Merged PR
