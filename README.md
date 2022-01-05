@@ -46,11 +46,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3237](https://github.com/EddieHubCommunity/support/issues/3237) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#3236](https://github.com/EddieHubCommunity/support/issues/3236) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🎉 Merged PR [#39](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/39) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-4. 💪 Opened PR [#39](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/39) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-5. 🎉 Merged PR [#38](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/38) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+1. 🎉 Merged PR [#41](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/41) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+2. 💪 Opened PR [#41](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/41) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+3. 🎉 Merged PR [#40](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/40) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+4. 💪 Opened PR [#40](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/40) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+5. ❗️ Opened issue [#3237](https://github.com/EddieHubCommunity/support/issues/3237) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
    [appwrite/appwrite](https://github.com/appwrite/appwrite)
 4. 🎉 Merged PR
