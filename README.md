@@ -46,11 +46,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#41](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/41) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-2. 💪 Opened PR [#41](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/41) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-3. 🎉 Merged PR [#40](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/40) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-4. 💪 Opened PR [#40](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/40) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
-5. ❗️ Opened issue [#3237](https://github.com/EddieHubCommunity/support/issues/3237) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#4551](https://github.com/twilio-labs/open-pixel-art/pull/4551) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
+2. 🎉 Merged PR [#41](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/41) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+3. 💪 Opened PR [#41](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/41) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+4. 🎉 Merged PR [#40](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/40) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
+5. 💪 Opened PR [#40](https://github.com/symaticvisuals/linkedin-redesigned-clone/pull/40) in [symaticvisuals/linkedin-redesigned-clone](https://github.com/symaticvisuals/linkedin-redesigned-clone)
 3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
    [appwrite/appwrite](https://github.com/appwrite/appwrite)
 4. 🎉 Merged PR
