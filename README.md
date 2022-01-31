@@ -39,9 +39,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=symaticvisuals&theme=react" alt="symaticvisuals" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=symaticvisuals&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Deepanshu Goel" align="center" width="48%"/>
 </div>
-
+<br/>
 <div align="center">
-  [![Deepanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=symaticvisuals&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-graph.herokuapp.com/graph?username=symaticvisuals&theme=react-dark" alt="contribution-graph" width="97%"/>
 </div>
 <br>
 
