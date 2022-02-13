@@ -49,11 +49,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/evreneducation/xpressPickDashboard/pull/2) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
-2. 💪 Opened PR [#2](https://github.com/evreneducation/xpressPickDashboard/pull/2) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
-3. 🎉 Merged PR [#1](https://github.com/evreneducation/xpressPickDashboard/pull/1) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
-4. 💪 Opened PR [#1](https://github.com/evreneducation/xpressPickDashboard/pull/1) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
-5. 💪 Opened PR [#4551](https://github.com/twilio-labs/open-pixel-art/pull/4551) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
+1. 🎉 Merged PR [#3](https://github.com/evreneducation/xpressPickDashboard/pull/3) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
+2. 💪 Opened PR [#3](https://github.com/evreneducation/xpressPickDashboard/pull/3) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
+3. 🎉 Merged PR [#2](https://github.com/evreneducation/xpressPickDashboard/pull/2) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
+4. 💪 Opened PR [#2](https://github.com/evreneducation/xpressPickDashboard/pull/2) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
+5. 🎉 Merged PR [#1](https://github.com/evreneducation/xpressPickDashboard/pull/1) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
 3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
    [appwrite/appwrite](https://github.com/appwrite/appwrite)
 4. 🎉 Merged PR
