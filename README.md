@@ -4,13 +4,16 @@
 <p align="center">I am an active Open-Source Contributor, a part of <b>Data on Kubernetes</b> & <b>AngelHack</b> Communities. I believe in teaching people about what I learn and public speak about React, UI/UX Designing and more to be coming soon!</p>
 
 <p align="center">📫 <b><a href="https://u6z4fs1b3g3.typeform.com/to/SSXqwLJC">Feel free to ask anything.</a> </b> You can check out my <a href="http://deepanshuweb.in/"><b>Personal Portfolio</b></a>.</p>
+
 <p align="center">
   <a href="https://twitter.com/thedeepanshuweb">
     <img src="https://img.shields.io/twitter/follow/thedeepanshuweb?label=Twitter&logo=twitter&style=for-the-badge&color=white" />
   </a>
     <a href="https://github.com/symaticvisuals">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/symaticvisuals?style=for-the-badge"></a>
+  
 </p>
+
 
 <br>
 
@@ -45,6 +48,7 @@
 </div>
 <br>
 
+[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/deepanshuweb?style=for-the-badge)](https://peerlist.io/deepanshuweb)
 ## <a href="https://github.com/symaticvisuals">Recent Activities on GitHub</a>
 
 <!--START_SECTION:activity-->
