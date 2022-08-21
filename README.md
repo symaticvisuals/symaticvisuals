@@ -53,8 +53,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#4487](https://github.com/EddieHubCommunity/support/issues/4487) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#1](https://github.com/symaticvisuals/brain-mentors-assignment/pull/1) in [symaticvisuals/brain-mentors-assignment](https://github.com/symaticvisuals/brain-mentors-assignment)
+1. ❗️ Opened issue [#6278](https://github.com/alacritty/alacritty/issues/6278) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+2. ❗️ Opened issue [#4487](https://github.com/EddieHubCommunity/support/issues/4487) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 3. 💪 Opened PR [#1](https://github.com/symaticvisuals/brain-mentors-assignment/pull/1) in [symaticvisuals/brain-mentors-assignment](https://github.com/symaticvisuals/brain-mentors-assignment)
 4. 💪 Opened PR [#4](https://github.com/evreneducation/xpressPickDashboard/pull/4) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
 5. 🎉 Merged PR [#2](https://github.com/evreneducation/xpressPickDashboard/pull/2) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
