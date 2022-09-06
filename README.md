@@ -44,7 +44,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-graph.herokuapp.com/graph?username=symaticvisuals&theme=react-dark" alt="contribution-graph" width="97%"/>
+  <img src="https://github-readme-activity-graph.symaticvisuals.repl.co/graph?username=symaticvisuals&theme=react-dark" alt="contribution-graph" width="97%"/>
 </div>
 <br>
 
