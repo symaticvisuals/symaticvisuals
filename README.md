@@ -43,10 +43,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=symaticvisuals&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Deepanshu Goel" align="center" width="48%"/>
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.symaticvisuals.repl.co/graph?username=symaticvisuals&theme=github" alt="contribution-graph" width="97%"/>
-</div>
-<br>
 
 [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/deepanshuweb?style=for-the-badge)](https://peerlist.io/deepanshuweb)
 ## <a href="https://github.com/symaticvisuals">Recent Activities on GitHub</a>
