@@ -49,10 +49,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/symaticvisuals/memory-password-dashboard/pull/1) in [symaticvisuals/memory-password-dashboard](https://github.com/symaticvisuals/memory-password-dashboard)
-2. ❗️ Opened issue [#6278](https://github.com/alacritty/alacritty/issues/6278) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-3. ❗️ Opened issue [#4487](https://github.com/EddieHubCommunity/support/issues/4487) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 💪 Opened PR [#4](https://github.com/evreneducation/xpressPickDashboard/pull/4) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
+1. 🎉 Merged PR [#1](https://github.com/gamasandeep/gutenberg_pricing/pull/1) in [gamasandeep/gutenberg_pricing](https://github.com/gamasandeep/gutenberg_pricing)
+2. 💪 Opened PR [#1](https://github.com/gamasandeep/gutenberg_pricing/pull/1) in [gamasandeep/gutenberg_pricing](https://github.com/gamasandeep/gutenberg_pricing)
+3. 🎉 Merged PR [#1](https://github.com/symaticvisuals/memory-password-dashboard/pull/1) in [symaticvisuals/memory-password-dashboard](https://github.com/symaticvisuals/memory-password-dashboard)
+4. ❗️ Opened issue [#6278](https://github.com/alacritty/alacritty/issues/6278) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
 5. 🎉 Merged PR [#2](https://github.com/evreneducation/xpressPickDashboard/pull/2) in [evreneducation/xpressPickDashboard](https://github.com/evreneducation/xpressPickDashboard)
 3. 🗣 Commented on [#1775](https://github.com/appwrite/appwrite/issues/1775) in
    [appwrite/appwrite](https://github.com/appwrite/appwrite)
