@@ -1,7 +1,13 @@
 <a href="https://www.deepanshuweb.in" target="_blank"><img src="https://github.com/symaticvisuals/symaticvisuals/blob/main/assets/banner-deepanshu.gif?raw=true" /></a>
 
 <h1 align="center"><b>Hi 👋, I'm Deepanshu</b></h1>
-<p align="center">I am an active Open-Source Contributor, a part of <b>Data on Kubernetes</b> & <b>AngelHack</b> Communities. I believe in teaching people about what I learn and public speak about React, UI/UX Designing and more to be coming soon!</p>
+<p align="center">A tech enthusiast 🤓. I am a highly motivated and passionate developer and designer who has a thirst for knowledge 🧠💻. I am always eager to learn new technologies and experiment with them 🤖💡, which has helped me gain a wealth of experience in building and publishing web apps using Reactjs 🔥💻.
+
+As a developer, I possess excellent communication skills 🗣️, which have enabled me to collaborate on various open-source projects 🤝 and work in a team environment 👥. I believe that collaboration is essential for personal and professional growth, as it allows us to push our potential and learn from others 🤝💡.
+
+Currently, I am learning about CI/CD workflows and blockchain contract building 🔑📈, which are exciting new technologies that are shaping the future of software development 🚀💻. I am excited to be a part of this industry and to continue to learn and grow as a developer 🚀💻🚀.
+
+In summary, I am a highly motivated, passionate, and experienced developer with a strong desire to learn new technologies and a proven track record of success in building and publishing web apps using Reactjs 🔥💻📈. I possess excellent communication skills and have a collaborative approach to work 🤝, which allows me to contribute to open-source projects and work effectively in a team environment 👥. I am excited to learn new technologies and continue to grow as a developer 🚀💻🚀.</p>
 
 <p align="center">📫 <b><a href="https://u6z4fs1b3g3.typeform.com/to/SSXqwLJC">Feel free to ask anything.</a> </b> You can check out my <a href="http://deepanshuweb.in/"><b>Personal Portfolio</b></a>.</p>
 
@@ -44,7 +50,7 @@
 </div>
 <br/>
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/deepanshuweb?style=for-the-badge)](https://peerlist.io/deepanshuweb)
+
 ## <a href="https://github.com/symaticvisuals">Recent Activities on GitHub</a>
 
 <!--START_SECTION:activity-->
