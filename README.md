@@ -1,4 +1,4 @@
-<a href="https://www.deepanshuweb.in" target="_blank"><img src="https://github.com/symaticvisuals/symaticvisuals/blob/main/assets/banner-deepanshu.gif?raw=true" /></a>
+<a href="https://www.deepanshuweb.in" target="_blank"><img src="https://github.com/symaticvisuals/symaticvisuals/blob/main/assets/banner.png?raw=true" /></a>
 
 <h1 align="center"><b>Hi 👋, I'm Deepanshu</b></h1>
 <p align="center">A tech enthusiast 🤓. I am a highly motivated and passionate developer and designer who has a thirst for knowledge 🧠💻. I am always eager to learn new technologies and experiment with them 🤖💡, which has helped me gain a wealth of experience in building and publishing web apps using Reactjs 🔥💻.
